@@ -1,4 +1,4 @@
-Paragraf 1 - Latihan membuat file di GitHub dari branch coba1
+Paragraf 1 - Latihan membuat file di GitHub dari branch coba2
 Paragraf 2 - Mencoba mengedit/menambahkan baris baru
 Paragraf 3 - Mencoba mengedit/menambahkan baris baru
 Paragraf 4 - Menambahkan Branch baru
